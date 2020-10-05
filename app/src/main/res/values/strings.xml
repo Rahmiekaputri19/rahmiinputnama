@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">rahmiinputnama</string>
+    <string name="nama_anda">\"Nama Anda: \"</string>
+    <string name="masukkan_nama">masukkan_nama</string>
+    <string name="tampilkan">tampilkan</string>
+</resources>
